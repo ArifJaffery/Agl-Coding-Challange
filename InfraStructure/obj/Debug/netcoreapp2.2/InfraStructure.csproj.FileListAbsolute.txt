@@ -1,0 +1,17 @@
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netcoreapp2.2\InfraStructure.deps.json
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netcoreapp2.2\InfraStructure.dll
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netcoreapp2.2\InfraStructure.pdb
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.csprojAssemblyReference.cache
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.AssemblyInfoInputs.cache
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.AssemblyInfo.cs
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.dll
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.pdb
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netcoreapp2.2\InfraStructure.deps.json
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netcoreapp2.2\InfraStructure.dll
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netcoreapp2.2\InfraStructure.pdb
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.AssemblyInfo.cs
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.dll
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.pdb
+C:\Users\user\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netcoreapp2.2\InfraStructure.csprojAssemblyReference.cache

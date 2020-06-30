@@ -1,0 +1,8 @@
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netstandard2.0\InfraStructure.deps.json
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netstandard2.0\InfraStructure.dll
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\bin\Debug\netstandard2.0\InfraStructure.pdb
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.AssemblyInfoInputs.cache
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.AssemblyInfo.cs
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.dll
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.pdb
+C:\Users\ajaffery\source\repos\AglCodingChallange\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.csprojAssemblyReference.cache
